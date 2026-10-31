@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Contrail Privacy Policy</title>
+<style>
+  :root { --fg: #000; --bg: #fff; --muted: #555; --rule: #ddd; }
+  @media (prefers-color-scheme: dark) { :root { --fg: #fff; --bg: #000; --muted: #aaa; --rule: #333; } }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  main { max-width: 40rem; margin: 0 auto; padding: 48px 16px 64px; }
+  h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 4px; letter-spacing: -0.01em; }
+  h2 { font-size: 1.2rem; margin: 2.2em 0 0.5em; padding-top: 1.2em; border-top: 1px solid var(--rule); }
+  p, ul { margin: 0 0 1em; }
+  ul { padding-left: 1.2em; }
+  li { margin-bottom: 0.6em; }
+  .date { color: var(--muted); margin-bottom: 2em; }
+  a { color: inherit; text-underline-offset: 2px; }
+  code { font: 0.9em ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere; }
+</style>
+</head>
+<body>
+<main>
+<h1>Contrail privacy policy</h1>
+<p class="date">Effective October 31, 2026</p>
+<p>Contrail is a web browser for Mac, iPhone and iPad. This policy says what Contrail sends, to whom, and why.</p>
+<h2>What Contrail doesn't do</h2>
+<ul>
+<li>Contrail has no accounts. You never sign up or sign in to Contrail.</li>
+<li>Contrail has no analytics, no ads and no tracking.</li>
+<li>Contrail's developer doesn't sell, rent or share your data.</li>
+<li>Nothing you browse is sent to Contrail's developer.</li>
+</ul>
+<h2>What stays on your device</h2>
+<p>Your tabs, Spaces, history, bookmarks, Notes, Canvases, downloads, site settings and settings are kept on your device, unless you turn on iCloud sync. Cookies and website data are kept on your device, separately for each profile. Incognito windows keep nothing after you close them.</p>
+<p>The features that use Apple's on-device model, such as tidying tab titles, run on your device and send nothing.</p>
+<h2>iCloud sync</h2>
+<p>You can turn on <strong>Sync with iCloud</strong> in Settings. It's off until you turn it on. Sync uses your own iCloud account. Contrail's developer has no access to it.</p>
+<p>When it's on, your sidebar, settings, site settings, history, Notes, Canvases and their images go to your private iCloud database. Every field is encrypted on your device before it leaves. With Apple's Advanced Data Protection on, only your devices can read them. Without it, Apple holds the keys, as it does for most iCloud data. Incognito, profiles other than Default and some device settings never sync.</p>
+<p>Apple's privacy policy covers iCloud.</p>
+<h2>Where Contrail connects, and why</h2>
+<p>Contrail connects to these places by itself. None of them is Contrail's developer, apart from the optional crash reports on the Mac.</p>
+<ul>
+<li><strong>Your search engine.</strong> When you type in the Command Bar, Contrail sends what you type to your search engine for suggestions. Google is the default, and you can pick another. To stop it, turn off "Show suggestions from the search engine" in Settings.</li>
+<li><strong>Ad-blocking lists.</strong> Contrail keeps public filter lists up to date. It downloads them from GitHub (uBlock Origin's and Brave's lists), EasyList, the URLhaus malware list and Fanboy's lists. The iPhone and iPad app also downloads one file of uBlock Origin resources from Contrail's repository on GitHub, github.com/Nkr1shna/contrail-resources. These requests carry nothing about you.</li>
+<li><strong>Updates on the Mac.</strong> Contrail checks for updates every 4 hours, and when you choose Check for Updates. It reads the list of releases from nkr1shna.github.io/contrail-releases and downloads updates from Contrail's releases on GitHub. In Settings you can pick the Beta or the Nightly channel. The check sends Contrail's name and version, and nothing about your Mac.</li>
+<li><strong>Website icons.</strong> Contrail downloads each site's icon from that site, without cookies. Rows from your history in the Command Bar ask the site for its own icon too. Contrail never asks a third-party icon service. The icons are kept on your device, at most 1,000 of them. When you delete history, clear it or delete a profile, the icons of the sites that leave your history go with it. History forgets pages after 90 days, but the icons of those sites stay until newer icons push them out of the 1,000.</li>
+<li><strong>Fraudulent-website warnings.</strong> Like Safari, Contrail can warn you about fraudulent sites. Apple's Safe Browsing service may receive information calculated from a site's address, not the address itself. To stop it, turn off "Warn when visiting a fraudulent website" in Settings.</li>
+<li><strong>Apple services.</strong> Translating a page downloads its languages from Apple the first time. Handoff offers the page you're on to your other Apple devices.</li>
+<li><strong>Chrome Web Store.</strong> If you install an extension from the Chrome Web Store, Contrail downloads it from Google. It then asks Google for updates every few hours, sending each extension's ID and version and your system's name and version, processor type and memory size.</li>
+<li><strong>Gmail and GitHub.</strong> If Gmail is in your Favorites or pinned tabs, the Mac app reads your inbox's feed from Gmail to show unread mail. Glance Email does the same when you ask for a code. A GitHub Live Folder reads your pull requests from GitHub. These use the sign-in you already have in that profile, and what they read stays on your device. To stop the Gmail feed, turn off Previews ▸ "Gmail: unread mail" in Settings.</li>
+<li><strong>Pages you ask for.</strong> Some features fetch a page or image you chose, from its own site: a link card in a Canvas, an image in a Note, View Source.</li>
+</ul>
+<h2>Crash reports on the Mac</h2>
+<p>The Mac app can send crash reports to Contrail's developer, only if you turn on "Send crash reports and diagnostics to crash.contrailbrowser.com" in Settings ▸ Advanced. It's off until you turn it on. Contrail sends only reports that arrived while it was on, and turning it off stops the next one.</p>
+<p>A report holds what macOS records about a crash, a hang, heavy processor use or heavy disk writing, and nothing else:</p>
+<ul>
+<li>Where in Contrail's code it happened: for each thread, the names and IDs of the program files and the positions in them.</li>
+<li>What went wrong: the exception type and code, the signal, why Contrail stopped, how long a hang lasted, how much processor time or disk writing it took.</li>
+<li>When it happened.</li>
+<li>Contrail's version, build and bundle ID, whether it's a TestFlight build, and its process number.</li>
+<li>Your Mac's macOS version, model (such as "Mac14,2") and processor type, your region format setting (such as "US"), and whether Low Power Mode was on.</li>
+</ul>
+<p>It has no web addresses, page titles or history. Contrail removes error messages that could quote an address, and the server removes them again. When a web page crashes, Contrail only counts it for the day on your Mac and never sends it.</p>
+<p>Reports go to crash.contrailbrowser.com, a server that Contrail's developer runs on their own computer. Cloudflare's tunnel service carries the connection to it, so Cloudflare sees your IP address on the way and handles it under <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare's privacy policy</a>. The server doesn't store or log your IP address. It keeps each report for 30 days and then deletes it. The developer uses reports only to find and fix problems.</p>
+<p>Help ▸ Report an Issue… saves a report on your Mac for you to send yourself. It sends nothing.</p>
+<h2>Crash reports on iPhone and iPad</h2>
+<p>The iPhone and iPad app sends no crash reports of its own, and sends nothing to Contrail's developer. If you share analytics with app developers in iOS Settings, Apple sends crash reports from the App Store and TestFlight to Contrail's developer. Apple's privacy policy covers them.</p>
+<h2>Websites you visit</h2>
+<p>The sites you open get what any browser sends them, such as your IP address, and they can set cookies. Each site's own privacy policy covers what it does. Contrail blocks many ads and trackers, but it can't control what a site does. A site that asks for your camera, microphone, location or notifications gets them only if you allow it.</p>
+<p>The services above, such as your search engine, GitHub, Google, Cloudflare and Apple, also follow their own privacy policies.</p>
+<h2>Children</h2>
+<p>Contrail is not directed at children under 13. It collects no personal information from anyone, children included.</p>
+<h2>Changes to this policy</h2>
+<p>If Contrail starts sending something new, this policy changes first. The new version has a new effective date at the top. Earlier versions are in <a href="https://github.com/Nkr1shna/contrail-releases/commits/gh-pages/privacy/index.html">this page's history</a>.</p>
+<h2>Contact</h2>
+<p>Write to <a href="mailto:dev@contrailbrowser.com">dev@contrailbrowser.com</a> with any question about privacy.</p>
+</main>
+</body>
+</html>
