@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Contrail</title>
     <link>https://nkr1shna.github.io/contrail-releases/appcast.xml</link>
     <description>Updates to Contrail for the Mac.</description>
     <language>en</language>
+    <item>
+      <title>Contrail 0.9 beta nightly (482)</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-482</link>
+      <sparkle:version>482</sparkle:version>
+      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+      <sparkle:channel>nightly</sparkle:channel>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 31 Oct 2026 21:08:04 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.9 beta nightly (482).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-482"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-482/Contrail-0.9-482.dmg" length="28151177" type="application/x-apple-diskimage" sparkle:edSignature="uhfhu2OJYkbceOgbEkAla0kdYTbrEJyARQNDzlN7yeOkv6L9NGPLKim3h0PR3ApjY2DpRmV7nM6SMDNcaE8lBg==" />
+    </item>
   </channel>
 </rss>
