@@ -6,6 +6,17 @@
     <description>Updates to Contrail for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.9 beta nightly (499)</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-499</link>
+      <sparkle:version>499</sparkle:version>
+      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+      <sparkle:channel>nightly</sparkle:channel>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 06 Nov 2026 17:08:47 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.9 beta nightly (499).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-499"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-499/Contrail-0.9-499.dmg" length="28171932" type="application/x-apple-diskimage" sparkle:edSignature="LYiYAGCJ4wErWCD1yNvwiAk0ENLvTsbQyGFzZHlAdT5CPoOZjPHzn2hUoG+A2rR7jVFxy/FICAWb1qsko8+RAQ==" />
+    </item>
+    <item>
       <title>Contrail 0.9 beta nightly (497)</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-497</link>
       <sparkle:version>497</sparkle:version>
