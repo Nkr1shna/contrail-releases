@@ -15,49 +15,5 @@
       <description>&lt;p&gt;Contrail 0.9.1 beta (717).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.9.1"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.9.1/Contrail-0.9.1-717.dmg" length="29433254" type="application/x-apple-diskimage" sparkle:edSignature="p2UP5GtvWZm5ag8Wvs69LghN/DqB4oCEbQFucTI9yVA4jIhAjyGqS7bibv4jSorBnh4Iq9wIJfWDsJpKD/axDQ==" />
     </item>
-    <item>
-      <title>Contrail 0.9 beta nightly (499)</title>
-      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-499</link>
-      <sparkle:version>499</sparkle:version>
-      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-      <sparkle:channel>nightly</sparkle:channel>
-      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 06 Nov 2026 17:08:47 GMT</pubDate>
-      <description>&lt;p&gt;Contrail 0.9 beta nightly (499).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-499"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-499/Contrail-0.9-499.dmg" length="28171932" type="application/x-apple-diskimage" sparkle:edSignature="LYiYAGCJ4wErWCD1yNvwiAk0ENLvTsbQyGFzZHlAdT5CPoOZjPHzn2hUoG+A2rR7jVFxy/FICAWb1qsko8+RAQ==" />
-    </item>
-    <item>
-      <title>Contrail 0.9 beta nightly (497)</title>
-      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-497</link>
-      <sparkle:version>497</sparkle:version>
-      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-      <sparkle:channel>nightly</sparkle:channel>
-      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-      <pubDate>Thu, 05 Nov 2026 17:42:38 GMT</pubDate>
-      <description>&lt;p&gt;Contrail 0.9 beta nightly (497).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-497"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-497/Contrail-0.9-497.dmg" length="28171970" type="application/x-apple-diskimage" sparkle:edSignature="nqTenf9j6s2dyy1TSfQrkSH8WYC8ebLpj8l3h28nHXxeQz/Yq66uaJ2So7hucUWDt52bewS5vTZwLPJQxLlwBQ==" />
-    </item>
-    <item>
-      <title>Contrail 0.9 beta nightly (491)</title>
-      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-491</link>
-      <sparkle:version>491</sparkle:version>
-      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-      <sparkle:channel>nightly</sparkle:channel>
-      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 31 Oct 2026 22:32:53 GMT</pubDate>
-      <description>&lt;p&gt;Contrail 0.9 beta nightly (491).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-491"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-491/Contrail-0.9-491.dmg" length="28156663" type="application/x-apple-diskimage" sparkle:edSignature="5va5oTkB0GfEU0FpJQCQPHnjxQstG3YorLU2cbGb7ixYsBLfw9lUMEKqEbaEyvpLJreb3FQZLovXXImn9303Bg==" />
-    </item>
-    <item>
-      <title>Contrail 0.9 beta nightly (482)</title>
-      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-482</link>
-      <sparkle:version>482</sparkle:version>
-      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-      <sparkle:channel>nightly</sparkle:channel>
-      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 31 Oct 2026 21:08:04 GMT</pubDate>
-      <description>&lt;p&gt;Contrail 0.9 beta nightly (482).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-482"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-482/Contrail-0.9-482.dmg" length="28151177" type="application/x-apple-diskimage" sparkle:edSignature="uhfhu2OJYkbceOgbEkAla0kdYTbrEJyARQNDzlN7yeOkv6L9NGPLKim3h0PR3ApjY2DpRmV7nM6SMDNcaE8lBg==" />
-    </item>
   </channel>
 </rss>
