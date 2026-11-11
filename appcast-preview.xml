@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Contrail Preview</title>
+    <link>https://nkr1shna.github.io/contrail-releases/appcast-preview.xml</link>
+    <description>Updates to Contrail Preview for the Mac.</description>
+    <language>en</language>
+    <item>
+      <title>Contrail 0.11.0 beta preview (797.0)</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.11.0-pre</link>
+      <sparkle:version>797.0</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 11 Nov 2026 22:33:25 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.11.0 beta preview (797.0).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.11.0-pre"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.11.0-pre/Contrail-Preview-0.11.0-797.0.dmg" length="29503254" type="application/x-apple-diskimage" sparkle:edSignature="LYqNNFwv2XSMJVTOY7RWSLDwdsxJD3apV1XLn9e13pqXUfkWkMV7fvIz2v9LoHuLdhNXmXu7apSYm5SbPuivDw==" />
+    </item>
+  </channel>
+</rss>
