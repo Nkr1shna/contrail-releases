@@ -6,6 +6,16 @@
     <description>Updates to Contrail Nightly for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.11 beta nightly (795)</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-795</link>
+      <sparkle:version>795</sparkle:version>
+      <sparkle:shortVersionString>0.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 11 Nov 2026 19:03:36 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.11 beta nightly (795).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-795"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-795/Contrail-Nightly-0.11-795.dmg" length="29417151" type="application/x-apple-diskimage" sparkle:edSignature="y8Ff1vQ0XwPKBbDItGpyPnoVbbH2xTEYUMi417lSxM3ciPzdPjFDN0tF7Rt6YL9eZzMQXpOillkYAnVVJadGAw==" />
+    </item>
+    <item>
       <title>Contrail 0.11 beta nightly (782)</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-782</link>
       <sparkle:version>782</sparkle:version>
