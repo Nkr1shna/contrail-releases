@@ -6,6 +6,16 @@
     <description>Updates to Contrail Preview for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.11.1 beta preview (797.2)</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.11.1-pre</link>
+      <sparkle:version>797.2</sparkle:version>
+      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 14 Nov 2026 23:08:43 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.11.1 beta preview (797.2).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.11.1-pre"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.11.1-pre/Contrail-Preview-0.11.1-797.2.dmg" length="29503931" type="application/x-apple-diskimage" sparkle:edSignature="/C8wZpLTh+BqmyUaYPouEO0v1ecISVT18Vj02C0sRKS6z1/ULtG/jHMYCmlwzuXOHvrzBYDNW/jAzfknS88QDw==" />
+    </item>
+    <item>
       <title>Contrail 0.11.0 beta preview (797.0)</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.11.0-pre</link>
       <sparkle:version>797.0</sparkle:version>
