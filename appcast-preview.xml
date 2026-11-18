@@ -6,6 +6,16 @@
     <description>Updates to Contrail Preview for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.13.0 Preview</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.13.0-pre</link>
+      <sparkle:version>974.0</sparkle:version>
+      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 18 Nov 2026 16:50:19 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.13.0 Preview.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Failed downloads say why and can be retried.&lt;/li&gt;&lt;li&gt;Fixed: An unreadable library is never saved over.&lt;/li&gt;&lt;li&gt;Settings and About now link to the privacy policy.&lt;/li&gt;&lt;li&gt;After a crash, tabs reopen without loading.&lt;/li&gt;&lt;li&gt;Mac scriptlets no longer fail on one flaky download&lt;/li&gt;&lt;li&gt;The update window shows what changed in each release.&lt;/li&gt;&lt;li&gt;Fixed a crash when an extension opened a second page&lt;/li&gt;&lt;li&gt;Typing in the address bar now closes an open Glance.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.13.0-pre"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.13.0-pre/Contrail-Preview-0.13.0-974.0.dmg" length="29941748" type="application/x-apple-diskimage" sparkle:edSignature="4gp3IassGOYNDcCrDKfNOKaZp5iA7QrncUeD0xZt7PxgQW3uHBEFMbp3JMl0PcQE9juloH+m2e3+yaJUY4rSCQ==" />
+    </item>
+    <item>
       <title>Contrail 0.12.0 Preview</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.12.0-pre</link>
       <sparkle:version>875.0</sparkle:version>
