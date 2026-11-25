@@ -6,6 +6,16 @@
     <description>Updates to Contrail Preview for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.15.0 Preview</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.15.0-pre</link>
+      <sparkle:version>1125.0</sparkle:version>
+      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 25 Nov 2026 21:09:57 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.15.0 Preview.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Crash reports you send arrive at once, not next launch&lt;/li&gt;&lt;li&gt;Changed: Sync is end-to-end encrypted, even without Advanced Data Protection&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.15.0-pre"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.15.0-pre/Contrail-Preview-0.15.0-1125.0.dmg" length="31259321" type="application/x-apple-diskimage" sparkle:edSignature="6kf4LJnZVmoNqxYP5t9Zn3TYYWS2ZKM0jArhj+Z8gS3oS77XO5PtvrgaCNIFEg0UIdE4NMlNLmCmEMrVb1tUAA==" />
+    </item>
+    <item>
       <title>Contrail 0.14.0 Preview</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.14.0-pre</link>
       <sparkle:version>1106.0</sparkle:version>
