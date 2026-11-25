@@ -6,6 +6,17 @@
     <description>Updates to Contrail for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.14.0</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.14.0</link>
+      <sparkle:version>1106.0</sparkle:version>
+      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 25 Nov 2026 20:54:45 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.14.0.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Clicks on pages that mark themselves draggable work again&lt;/li&gt;&lt;li&gt;New: Mac asks once, after a crash, to send reports&lt;/li&gt;&lt;li&gt;Improved: Contrail checks for updates every hour.&lt;/li&gt;&lt;li&gt;Improved: Critical fixes skip the gradual rollout.&lt;/li&gt;&lt;li&gt;New: import from Edge, Dia, Comet, Vivaldi and Helium&lt;/li&gt;&lt;li&gt;New: Dia&amp;#x27;s Favorites and pinned tabs come with its import&lt;/li&gt;&lt;li&gt;New: Restore Data on iPhone, with Notes, history and settings&lt;/li&gt;&lt;li&gt;Updating ad and tracker blocking lists no longer pauses Contrail.&lt;/li&gt;&lt;li&gt;Fixed: 1Password&amp;#x27;s extension now connects and opens its popup.&lt;/li&gt;&lt;li&gt;Fixed: extensions opening WebSockets in the background no longer freeze.&lt;/li&gt;&lt;li&gt;Fixed: ad blocking now hides ads inside sandboxed frames.&lt;/li&gt;&lt;li&gt;Fixed: extensions can keep WebSockets open in the background.&lt;/li&gt;&lt;li&gt;Extension popups open in empty windows and from Gliders&lt;/li&gt;&lt;li&gt;New: Mac reports freezes and crashes sooner, with your consent&lt;/li&gt;&lt;li&gt;New: Recovery key and device pairing in Settings ▸ Sync&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.14.0"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.14.0/Contrail-0.14.0-1106.0.dmg" length="31086744" type="application/x-apple-diskimage" sparkle:edSignature="vxyajBV+DTPYwYMcIRO8a0six5vUfVMMAcbvTDgGpJYUtxq8sS79h/UaZ6oegEAh7c2TpJS2YwDHmAjbWLZsCg==" />
+      <sparkle:criticalUpdate />
+    </item>
+    <item>
       <title>Contrail 0.13.0</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.13.0</link>
       <sparkle:version>974.0</sparkle:version>
