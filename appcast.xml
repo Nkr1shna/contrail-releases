@@ -6,6 +6,17 @@
     <description>Updates to Contrail for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.16.0</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.16.0</link>
+      <sparkle:version>1172.0</sparkle:version>
+      <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 26 Nov 2026 17:52:14 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.16.0.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Crash reports you send arrive at once, not next launch&lt;/li&gt;&lt;li&gt;Changed: Sync is end-to-end encrypted, even without Advanced Data Protection&lt;/li&gt;&lt;li&gt;Fixed: windows open on a tab after a relaunch&lt;/li&gt;&lt;li&gt;Fixed: undo no longer reopens collapsed folders&lt;/li&gt;&lt;li&gt;Fixed: undo no longer reopens a collapsed pinned section&lt;/li&gt;&lt;li&gt;Send feedback with screenshots from Help or Settings&lt;/li&gt;&lt;li&gt;Fixed iPhone and iPad extension popups saying they can&amp;#x27;t run&lt;/li&gt;&lt;li&gt;Fixed extension popups opening tiny on iPad&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.16.0"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.16.0/Contrail-0.16.0-1172.0.dmg" length="31357224" type="application/x-apple-diskimage" sparkle:edSignature="NR0B0y+i+I6B60QTWoWEiJPXXtbNZcJO52ZdGwbJsW98/EvIJd+3KENXeGlvdygUzKrzOFciM0sRV0r1g3vrDg==" />
+      <sparkle:criticalUpdate />
+    </item>
+    <item>
       <title>Contrail 0.14.0</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.14.0</link>
       <sparkle:version>1106.0</sparkle:version>
