@@ -6,6 +6,16 @@
     <description>Updates to Contrail Nightly for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.18.0 Nightly (1239)</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-1239</link>
+      <sparkle:version>1239</sparkle:version>
+      <sparkle:shortVersionString>0.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 27 Nov 2026 11:02:51 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.18.0 Nightly (1239).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-1239"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-1239/Contrail-Nightly-0.18-1239.dmg" length="31944859" type="application/x-apple-diskimage" sparkle:edSignature="V65Yw3r+sDcpcY+CegOZDc1SP4KEmINvE/gUVV1MOgK9+F7v4hr3mlN8Jiq0cYqj6BtD8Wop4UzxhMkkX2x7Cw==" />
+    </item>
+    <item>
       <title>Contrail 0.16.0 Nightly (1172)</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-1172</link>
       <sparkle:version>1172</sparkle:version>
@@ -94,16 +104,6 @@
       <pubDate>Sun, 15 Nov 2026 09:23:32 GMT</pubDate>
       <description>&lt;p&gt;Contrail 0.12.0 Nightly (833).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-833"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-833/Contrail-Nightly-0.12-833.dmg" length="29444501" type="application/x-apple-diskimage" sparkle:edSignature="zXKsWJVCndiqdBvSkW8Eka1LA9FWk+xY8pKKduFV2F+MsnoXWubyzWFwrZLHNiDuepSRarrS7aXOi4JPTfLLCg==" />
-    </item>
-    <item>
-      <title>Contrail 0.12 beta nightly (815)</title>
-      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-815</link>
-      <sparkle:version>815</sparkle:version>
-      <sparkle:shortVersionString>0.12</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 14 Nov 2026 18:27:01 GMT</pubDate>
-      <description>&lt;p&gt;Contrail 0.12 beta nightly (815).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/nightly-815"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/nightly-815/Contrail-Nightly-0.12-815.dmg" length="29413028" type="application/x-apple-diskimage" sparkle:edSignature="FkAd+V4jl+Z1rwL/Vj2mEGtzqF2cJPMzCyDaP9uAgwAOj3IzX12P2SEEqId69HvLeovH9OOPiDQrOeCCrMTYCA==" />
     </item>
   </channel>
 </rss>
