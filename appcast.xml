@@ -6,6 +6,17 @@
     <description>Updates to Contrail for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.17.1</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.17.1</link>
+      <sparkle:version>1229.2</sparkle:version>
+      <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 27 Nov 2026 16:45:31 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.17.1.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fixed a crash when opening Help ▸ Report an Issue&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.17.1"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.17.1/Contrail-0.17.1-1229.2.dmg" length="31948267" type="application/x-apple-diskimage" sparkle:edSignature="9wPFreS2g2ZP8MaCUSgwf423z2Xn0gCYXpECkc92u+yo9Y9qCmYwZ2/OTRFbOVaO1O+M6ZmAJlScA60A+J+qAw==" />
+      <sparkle:criticalUpdate />
+    </item>
+    <item>
       <title>Contrail 0.17.0</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.17.0</link>
       <sparkle:version>1229.0</sparkle:version>
