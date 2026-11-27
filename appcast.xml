@@ -6,6 +6,17 @@
     <description>Updates to Contrail for the Mac.</description>
     <language>en</language>
     <item>
+      <title>Contrail 0.16.1</title>
+      <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.16.1</link>
+      <sparkle:version>1172.2</sparkle:version>
+      <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 27 Nov 2026 05:05:22 GMT</pubDate>
+      <description>&lt;p&gt;Contrail 0.16.1.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fixed a stopped sync showing only in Settings&lt;/li&gt;&lt;li&gt;Fixed: devices without the sync key keep syncing&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.16.1"&gt;Release notes and download&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Nkr1shna/contrail-releases/releases/download/v0.16.1/Contrail-0.16.1-1172.2.dmg" length="31475474" type="application/x-apple-diskimage" sparkle:edSignature="5C52hlrTJuv5mPvodRAW5XEwpMbDEEUS3CshK5XDA0DLRt5Y4AwZXGosQCYTX904cHiEGdT35TkqlWKNk9kwCg==" />
+      <sparkle:criticalUpdate />
+    </item>
+    <item>
       <title>Contrail 0.16.0</title>
       <link>https://github.com/Nkr1shna/contrail-releases/releases/tag/v0.16.0</link>
       <sparkle:version>1172.0</sparkle:version>
